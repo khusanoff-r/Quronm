@@ -1,0 +1,14 @@
+.header {
+  nav {
+    position: absolute;
+    ul {
+      display: flex;
+      flex-direction: column;
+      li {
+        padding: 10px;
+        margin: 10px;
+        font-size: 30px;
+      }
+    }
+  }
+}
